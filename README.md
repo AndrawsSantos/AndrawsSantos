@@ -7,7 +7,7 @@ Data Scientist
 Master's degree in Mathematics and Applications, with a focus on Data Science and Decision Making. During my internship at KPMG, I contributed to a project evaluating money laundering risks, using machine learning models for customer analysis. I hold a Data Science certification from Let's Data and am currently expanding my expertise in Business Intelligence, thereby building a solid foundation to tackle complex challenges in the field of data science.
 
 * 🌍  I'm based in Lisbon, Portugal.
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/AndrawsSantos)
+* 🖥️  See my portfolio at [My Portfolio]([http://github.com/AndrawsSantos](https://github.com/AndrawsSantos?tab=repositories)
 * ✉️  You can contact me at [andraws.s.santos@gmail.com](mailto:andraws.s.santos@gmail.com)
 * 🧠  I'm learning Power BI, Deep Learning and LLM's
 
